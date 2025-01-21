@@ -1,7 +1,3 @@
-216.239.38.120 www.google.com
-216.239.38.120 google.com
-216.239.38.120 www.google.de
-216.239.38.120 google.de
 0.0.0.0 deu.xhamster.com
 0.0.0.0 fikfap.com
 0.0.0.0 redgifs.com
